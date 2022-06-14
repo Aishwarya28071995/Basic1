@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap", "Swap\Swap.csproj", "{D0A70314-3068-4A34-B5E8-3A04F5BD83DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowelConsonent", "vowelConsonent\vowelConsonent.csproj", "{F0EFD055-ED29-4078-9951-013B2569241C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D0A70314-3068-4A34-B5E8-3A04F5BD83DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0A70314-3068-4A34-B5E8-3A04F5BD83DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0A70314-3068-4A34-B5E8-3A04F5BD83DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0A70314-3068-4A34-B5E8-3A04F5BD83DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0EFD055-ED29-4078-9951-013B2569241C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EFD055-ED29-4078-9951-013B2569241C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EFD055-ED29-4078-9951-013B2569241C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EFD055-ED29-4078-9951-013B2569241C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {10A3A6AE-DC36-4535-8E8B-7EA245814802}
+		SolutionGuid = {E4F9D2FF-B898-4FCF-9C44-39703B7F74DB}
 	EndGlobalSection
 EndGlobal
